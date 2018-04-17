@@ -1,2 +1,4 @@
 # Custom Homepage - Theresa (Honkai Impact 3)
-readme coming soon!
+Live demo: https://shirooo39.github.io/theresa_hi3/index.html
+
+Original source code by gokoururi
